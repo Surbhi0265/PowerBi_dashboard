@@ -10,5 +10,5 @@ Conclusion:
 1.passengers prefers to travel on weekdays more than weekends
 2.Passengers prefers North america cities more to travel 
 3. Airlines performce declines in the month of june- july 
-4. many ailines needs to work on increasing their Load factor percentage 
+4. many airlines needs to work on increasing their Load factor percentage 
 
